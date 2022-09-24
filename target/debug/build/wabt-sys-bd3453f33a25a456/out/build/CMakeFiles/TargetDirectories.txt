@@ -1,0 +1,5 @@
+/Users/davidthomas/Documents/Radix/tutorial/target/debug/build/wabt-sys-bd3453f33a25a456/out/build/CMakeFiles/everything.dir
+/Users/davidthomas/Documents/Radix/tutorial/target/debug/build/wabt-sys-bd3453f33a25a456/out/build/CMakeFiles/wabt.dir
+/Users/davidthomas/Documents/Radix/tutorial/target/debug/build/wabt-sys-bd3453f33a25a456/out/build/CMakeFiles/wasm.dir
+/Users/davidthomas/Documents/Radix/tutorial/target/debug/build/wabt-sys-bd3453f33a25a456/out/build/CMakeFiles/edit_cache.dir
+/Users/davidthomas/Documents/Radix/tutorial/target/debug/build/wabt-sys-bd3453f33a25a456/out/build/CMakeFiles/rebuild_cache.dir
