@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/davidthomas/Documents/Radix/tutorial/target/wasm32-unknown-unknown/release/build/typenum-574c3fd4bf2a1cde/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/davidthomas/Documents/Radix/tutorial/target/wasm32-unknown-unknown/release/build/typenum-574c3fd4bf2a1cde/out/op.rs
